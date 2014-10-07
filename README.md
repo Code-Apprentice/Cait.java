@@ -27,6 +27,10 @@ import java.util.*;
 
 public class cait  {
 	
+	//Add comments
+	//Add documentation
+	//Reduce sexual content in the answers
+	
 	private static String  	sInput = "";
 	private static String  	sResponse = "";
 	private static String  	sPrevInput = "";
